@@ -2,6 +2,6 @@
 
 ## The purpose of the Professional Repository is to share my "About Me" website
 
-## [About Me website][def]
+## [About Me Website][def]
 
 [def]: lamasterfam.github.io/Index.html
